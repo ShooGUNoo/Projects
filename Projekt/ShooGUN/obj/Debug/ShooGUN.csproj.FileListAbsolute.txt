@@ -1,0 +1,11 @@
+C:\Users\Wojtek\Desktop\dokumenty uczelnia\Projekt PA\Projekt\Projekt\ShooGUN\bin\Debug\ulub.xml
+C:\Users\Wojtek\Desktop\dokumenty uczelnia\Projekt PA\Projekt\Projekt\ShooGUN\bin\Debug\ShooGUN.exe.config
+C:\Users\Wojtek\Desktop\dokumenty uczelnia\Projekt PA\Projekt\Projekt\ShooGUN\bin\Debug\ShooGUN.exe
+C:\Users\Wojtek\Desktop\dokumenty uczelnia\Projekt PA\Projekt\Projekt\ShooGUN\bin\Debug\ShooGUN.pdb
+C:\Users\Wojtek\Desktop\dokumenty uczelnia\Projekt PA\Projekt\Projekt\ShooGUN\obj\Debug\ShooGUN.csprojAssemblyReference.cache
+C:\Users\Wojtek\Desktop\dokumenty uczelnia\Projekt PA\Projekt\Projekt\ShooGUN\obj\Debug\ShooGUN.Form1.resources
+C:\Users\Wojtek\Desktop\dokumenty uczelnia\Projekt PA\Projekt\Projekt\ShooGUN\obj\Debug\ShooGUN.Properties.Resources.resources
+C:\Users\Wojtek\Desktop\dokumenty uczelnia\Projekt PA\Projekt\Projekt\ShooGUN\obj\Debug\ShooGUN.csproj.GenerateResource.cache
+C:\Users\Wojtek\Desktop\dokumenty uczelnia\Projekt PA\Projekt\Projekt\ShooGUN\obj\Debug\ShooGUN.csproj.CoreCompileInputs.cache
+C:\Users\Wojtek\Desktop\dokumenty uczelnia\Projekt PA\Projekt\Projekt\ShooGUN\obj\Debug\ShooGUN.exe
+C:\Users\Wojtek\Desktop\dokumenty uczelnia\Projekt PA\Projekt\Projekt\ShooGUN\obj\Debug\ShooGUN.pdb
